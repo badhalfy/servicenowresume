@@ -611,7 +611,7 @@
 
                 <!-- Overview Tab -->
                 <div id="overview" class="tab-content active">
-                    <div id="overview" class="tab-content active">
+                    
                     <div class="form-section">
                         <div class="form-section-header">About this Resume</div>
                         <div class="form-section-content">
