@@ -104,7 +104,7 @@
 
         /* Main Container */
         .main-container {
-            margin-top: 48px;
+            margin-top: 36px;
             padding: 0;
         }
 
