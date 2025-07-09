@@ -611,6 +611,15 @@
 
                 <!-- Overview Tab -->
                 <div id="overview" class="tab-content active">
+                    <div id="overview" class="tab-content active">
+                    <div class="form-section">
+                        <div class="form-section-header">About this Resume</div>
+                        <div class="form-section-content">
+                            <div class="form-group">
+                                <textarea class="form-textarea" readonly>This resume web-site I developed with ServiceNow platform in mind. I've used some design elements from the platform to make it recognizable, however I have simplified the concept since format requires much less functionality. </textarea>
+                            </div>
+                        </div>
+                    </div>
                     <div class="form-section">
                         <div class="form-section-header">Professional Summary</div>
                         <div class="form-section-content">
@@ -668,14 +677,17 @@
                             <div class="experience-item">
                                 <div class="experience-header">
                                     <div>
-                                        <div class="experience-title">Senior ServiceNow Developer</div>
-                                        <div class="experience-company">Tech Solutions Inc.</div>
+                                        <div class="experience-title"> ServiceNow Developer</div>
+                                        <div class="experience-company">SQA Solution</div>
                                     </div>
-                                    <div class="experience-date">Jan 2022 - Present</div>
+                                    <div class="experience-date">Feb 2020 - Present</div>
                                 </div>
                                 <div class="experience-description">
-                                    Lead developer for ServiceNow implementations across multiple clients.
+                                    Contract developer for ServiceNow implementations across multiple clients.
                                     <ul>
+                                        <li>Built custom workflows and automated business processes</li>
+                                        <li>Configured and customized ITSM modules (Incident, Problem, Change)</li>
+                                        <li>Performed system upgrades and maintained platform health</li>
                                         <li>Designed and developed custom ServiceNow applications using best practices</li>
                                         <li>Implemented ITSM, ITOM, and HR Service Delivery modules</li>
                                         <li>Created complex business rules, UI policies, and client scripts</li>
@@ -685,24 +697,7 @@
                                 </div>
                             </div>
 
-                            <div class="experience-item">
-                                <div class="experience-header">
-                                    <div>
-                                        <div class="experience-title">ServiceNow Developer</div>
-                                        <div class="experience-company">Enterprise Corp</div>
-                                    </div>
-                                    <div class="experience-date">Mar 2020 - Dec 2021</div>
-                                </div>
-                                <div class="experience-description">
-                                    Developed and maintained ServiceNow platform for internal IT operations.
-                                    <ul>
-                                        <li>Built custom workflows and automated business processes</li>
-                                        <li>Configured and customized ITSM modules (Incident, Problem, Change)</li>
-                                        <li>Developed reports and dashboards for management visibility</li>
-                                        <li>Performed system upgrades and maintained platform health</li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
 
                             
                         </div>
@@ -727,7 +722,7 @@
                                 <div class="form-group">
                                     <label class="form-label">Development</label>
                                     <div class="skills-list">
-                                        <span class="skill-tag">JavaScript</span>
+                                        <span class="skill-tag">JavaScript (basic) </span>
                                         <span class="skill-tag">GlideRecord</span>
                                         <span class="skill-tag">GlideAjax</span>
                                         <span class="skill-tag">Business Rules</span>
@@ -769,6 +764,7 @@
                                 <span class="skill-tag">Client Communication</span>
                                 <span class="skill-tag">Requirements Analysis</span>
                                 <span class="skill-tag">Project Management</span>
+                                <span class="skill-tag">B2C, B2B Sales</span>
                                 <span class="skill-tag">Documentation</span>
                                 <span class="skill-tag">Training & Mentoring</span>
                             </div>
@@ -786,28 +782,27 @@
                             <div class="experience-item">
                                 <div class="experience-header">
                                     <div>
-                                        <div class="experience-title">Bachelor of Science in Computer Science</div>
-                                        <div class="experience-company">University Name</div>
+                                        <div class="experience-title">Bachelor's degree, Automation Engineer Technology/Technician</div>
+                                        <div class="experience-company">ITMO University</div>
                                     </div>
-                                    <div class="experience-date">2015 - 2019</div>
+                                    <div class="experience-date">2012 - 2016</div>
                                 </div>
                                 <div class="experience-description">
-                                    Graduated with honors. Relevant coursework: Software Engineering, Database Systems, Web Development, Systems Analysis and Design.
+                                    Graduated. Relevant coursework: Software Engineering, Database Systems, Web Development, Systems Analysis and Design.
                                 </div>
                             </div>
                         </div>
                     </div>
 
+
                     <div class="form-section">
                         <div class="form-section-header">Professional Development</div>
                         <div class="form-section-content">
                             <ul>
-                                <li>ServiceNow Developer Training Program (2019)</li>
-                                <li>Advanced JavaScript for ServiceNow (2020)</li>
-                                <li>ServiceNow Integration Fundamentals (2021)</li>
-                                <li>ITIL Foundation v4 Certification (2022)</li>
-                                <li>Agile Development Methodology (2023)</li>
-                                <li>Cloud Computing Fundamentals (2024)</li>
+                                <li>ServiceNow Developer  Program </li>
+                                <li>ServiceNow AI Essentials </li>
+                                <li>ServiceNow System Administrator </li>
+                                <li>ServiceNow App Engine Studio</li>
                             </ul>
                         </div>
                     </div>
@@ -821,7 +816,7 @@
                             <div class="form-row">
                                 <div class="form-group">
                                     <label class="form-label">Full Name</label>
-                                    <input type="text" class="form-input" value="Igor [Your Last Name]" readonly>
+                                    <input type="text" class="form-input" value="Igor Khalfin" readonly>
                                 </div>
                                 <div class="form-group">
                                     <label class="form-label">Job Title</label>
@@ -831,27 +826,27 @@
                             <div class="form-row">
                                 <div class="form-group">
                                     <label class="form-label">Email Address</label>
-                                    <input type="email" class="form-input" value="igor@email.com" readonly>
+                                    <input type="email" class="form-input" value="khalfin.igor95@gmail.com" readonly>
                                 </div>
                                 <div class="form-group">
                                     <label class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-input" value="+1 (555) 123-4567" readonly>
+                                    <input type="tel" class="form-input" value="+1 (718) 775-8415" readonly>
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="form-group">
                                     <label class="form-label">LinkedIn Profile</label>
-                                    <input type="url" class="form-input" value="https://linkedin.com/in/igor" readonly>
+                                    <input type="url" class="form-input" value="https://www.linkedin.com/in/igor-kh/" readonly>
                                 </div>
                                 <div class="form-group">
                                     <label class="form-label">GitHub Profile</label>
-                                    <input type="url" class="form-input" value="https://github.com/igor" readonly>
+                                    <input type="url" class="form-input" value="https://github.com/badhalfy" readonly>
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="form-group">
                                     <label class="form-label">Location</label>
-                                    <input type="text" class="form-input" value="City, State, Country" readonly>
+                                    <input type="text" class="form-input" value="Pembroke Pines, FL" readonly>
                                 </div>
                                 <div class="form-group">
                                     <label class="form-label">Time Zone</label>
@@ -865,7 +860,7 @@
   <!-- Personal Tab -->
                 <div id="projects" class="tab-content">
                     <div class="form-section">
-                        <div class="form-section-header">Personal Projects a& Hobbies</div>
+                        <div class="form-section-header">Personal Projects & Hobbies</div>
                         <div class="form-section-content">
                             <div class="project-card">
                                 <div class="project-title">Car Rental Agency</div>
