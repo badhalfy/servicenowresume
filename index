@@ -813,7 +813,7 @@
             <!-- Left Panel -->
             <div class="left-panel">
                 <div class="profile-section">
-                    <div class="profile-avatar">I</div>
+                    <div class="profile-avatar" src='image/avatar.jpg>I</div>
                     <div class="profile-name">Igor</div>
                     <div class="profile-title">ServiceNow Developer</div>
                 </div>
