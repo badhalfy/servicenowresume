@@ -501,13 +501,13 @@
             <li class="active" onclick="showTab('overview')">Overview</li>
             <li onclick="showTab('experience')">Experience</li>
             <li onclick="showTab('skills')">Skills</li>
-            <li onclick="showTab('projects')">Projects</li>
             <li onclick="showTab('education')">Education</li>
             <li onclick="showTab('contact')">Contact</li>
+            <li onclick="showTab('projects')">Personal</li>
         </ul>
         <div class="header-right">
             <div class="search-container">
-                <input type="text" class="search-box" placeholder="Search skills, experience...">
+                <input type="text" class="search-box" placeholder="There's no need to search...">
             </div>
             <div class="user-info">
                 <div class="user-avatar">I</div>
@@ -541,19 +541,19 @@
                     <div class="section-title">Personal Information</div>
                     <div class="info-item">
                         <span class="info-label">Location:</span>
-                        <span class="info-value">City, Country</span>
+                        <span class="info-value">Florida, USA</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">Email:</span>
-                        <span class="info-value">igor@email.com</span>
+                        <span class="info-value">khalfin.igor95@gmail.com</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">Phone:</span>
-                        <span class="info-value">+1 (555) 123-4567</span>
+                        <span class="info-value">+1 (718) 775-8415</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">LinkedIn:</span>
-                        <span class="info-value">linkedin.com/in/igor</span>
+                        <span class="info-value">linkedin.com/in/igor-kh</span>
                     </div>
                 </div>
 
@@ -604,9 +604,9 @@
                     <div class="tab active" onclick="showTab('overview')">Overview</div>
                     <div class="tab" onclick="showTab('experience')">Experience</div>
                     <div class="tab" onclick="showTab('skills')">Skills</div>
-                    <div class="tab" onclick="showTab('projects')">Projects</div>
                     <div class="tab" onclick="showTab('education')">Education</div>
                     <div class="tab" onclick="showTab('contact')">Contact</div>
+                    <div class="tab" onclick="showTab('projects')">Personal</div>
                 </div>
 
                 <!-- Overview Tab -->
@@ -625,10 +625,9 @@
                         <div class="form-section-content">
                             <ul>
                                 <li>Led implementation of ServiceNow ITSM for 10,000+ user organization</li>
-                                <li>Developed 15+ custom ServiceNow applications improving workflow efficiency by 40%</li>
+                                <li>Developed custom ServiceNow applications improving workflow efficiency by 40%</li>
                                 <li>Achieved ServiceNow CSA and CAD certifications</li>
                                 <li>Reduced incident resolution time by 30% through automated workflows</li>
-                                <li>Successfully integrated ServiceNow with 8+ third-party systems</li>
                             </ul>
                         </div>
                     </div>
@@ -705,24 +704,7 @@
                                 </div>
                             </div>
 
-                            <div class="experience-item">
-                                <div class="experience-header">
-                                    <div>
-                                        <div class="experience-title">Junior ServiceNow Developer</div>
-                                        <div class="experience-company">Digital Services Ltd</div>
-                                    </div>
-                                    <div class="experience-date">Jun 2019 - Feb 2020</div>
-                                </div>
-                                <div class="experience-description">
-                                    Entry-level position focusing on ServiceNow configuration and customization.
-                                    <ul>
-                                        <li>Learned ServiceNow platform fundamentals and development practices</li>
-                                        <li>Assisted in form and list customizations</li>
-                                        <li>Supported testing and deployment activities</li>
-                                        <li>Participated in requirement gathering and documentation</li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -794,52 +776,7 @@
                     </div>
                 </div>
 
-                <!-- Projects Tab -->
-                <div id="projects" class="tab-content">
-                    <div class="form-section">
-                        <div class="form-section-header">Key Projects</div>
-                        <div class="form-section-content">
-                            <div class="project-card">
-                                <div class="project-title">Enterprise ITSM Implementation</div>
-                                <div class="project-description">
-                                    Led the complete implementation of ServiceNow ITSM for a Fortune 500 company with 10,000+ users. Designed custom workflows, configured all ITSM modules, and integrated with existing enterprise systems.
-                                </div>
-                                <div class="project-technologies">
-                                    <span class="tech-tag">ServiceNow ITSM</span>
-                                    <span class="tech-tag">Workflow Design</span>
-                                    <span class="tech-tag">System Integration</span>
-                                    <span class="tech-tag">Change Management</span>
-                                </div>
-                            </div>
-
-                            <div class="project-card">
-                                <div class="project-title">Custom HR Service Portal</div>
-                                <div class="project-description">
-                                    Developed a comprehensive HR service portal with automated onboarding, offboarding, and employee lifecycle management. Reduced HR processing time by 60% and improved employee satisfaction scores.
-                                </div>
-                                <div class="project-technologies">
-                                    <span class="tech-tag">Service Portal</span>
-                                    <span class="tech-tag">HR Service Delivery</span>
-                                    <span class="tech-tag">AngularJS</span>
-                                    <span class="tech-tag">Workflow Automation</span>
-                                </div>
-                            </div>
-
-                            <div class="project-card">
-                                <div class="project-title">Multi-System Integration Platform</div>
-                                <div class="project-description">
-                                    Created a centralized integration platform connecting ServiceNow with 8 different enterprise systems including ERP, CRM, and monitoring tools. Implemented real-time data synchronization and automated incident creation.
-                                </div>
-                                <div class="project-technologies">
-                                    <span class="tech-tag">REST/SOAP APIs</span>
-                                    <span class="tech-tag">Integration Hub</span>
-                                    <span class="tech-tag">MID Server</span>
-                                    <span class="tech-tag">Data Synchronization</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            
 
                 <!-- Education Tab -->
                 <div id="education" class="tab-content">
@@ -923,6 +860,56 @@
                             </div>
                         </div>
                     </div>
+
+
+  <!-- Personal Tab -->
+                <div id="projects" class="tab-content">
+                    <div class="form-section">
+                        <div class="form-section-header">Personal Projects a& Hobbies</div>
+                        <div class="form-section-content">
+                            <div class="project-card">
+                                <div class="project-title">Car Rental Agency</div>
+                                <div class="project-description">
+                                    Passively running small car rental agency
+                                </div>
+                                <div class="project-technologies">
+                                    <span class="tech-tag">Business Managemement</span>
+                                    <span class="tech-tag">Financial Managemement</span>
+                                    <span class="tech-tag">Stress Management</span>
+                                    <span class="tech-tag">Marketing</span>
+                                </div>
+                            </div>
+
+                            <div class="project-card">
+                                <div class="project-title">Custom HR Service Portal</div>
+                                <div class="project-description">
+                                    Developed a comprehensive HR service portal with automated onboarding, offboarding, and employee lifecycle management. Reduced HR processing time by 60% and improved employee satisfaction scores.
+                                </div>
+                                <div class="project-technologies">
+                                    <span class="tech-tag">Service Portal</span>
+                                    <span class="tech-tag">HR Service Delivery</span>
+                                    <span class="tech-tag">AngularJS</span>
+                                    <span class="tech-tag">Workflow Automation</span>
+                                </div>
+                            </div>
+
+                            <div class="project-card">
+                                <div class="project-title">Multi-System Integration Platform</div>
+                                <div class="project-description">
+                                    Created a centralized integration platform connecting ServiceNow with 8 different enterprise systems including ERP, CRM, and monitoring tools. Implemented real-time data synchronization and automated incident creation.
+                                </div>
+                                <div class="project-technologies">
+                                    <span class="tech-tag">REST/SOAP APIs</span>
+                                    <span class="tech-tag">Integration Hub</span>
+                                    <span class="tech-tag">MID Server</span>
+                                    <span class="tech-tag">Data Synchronization</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                    
 
                     <div class="form-section">
                         <div class="form-section-header">Send a Message</div>
