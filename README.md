@@ -509,7 +509,7 @@
                 <input type="text" class="search-box" placeholder="There's no need to search...">
             </div>
             <div class="user-info">
-                <div class="user-avatar">I</div>
+                <div class="user-avatar" src='image/avatar.jpg'>I</div>
                 <span>Igor</span>
             </div>
         </div>
@@ -523,7 +523,7 @@
             <span class="breadcrumb-separator">></span>
             <a href="#" class="breadcrumb-item">Profiles</a>
             <span class="breadcrumb-separator">></span>
-            <span>Igor - ServiceNow Developer</span>
+            <span>Igor K - ServiceNow Developer</span>
         </div>
 
         <!-- Content Area -->
