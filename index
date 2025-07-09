@@ -791,8 +791,8 @@
                 <input type="text" class="search-box" placeholder="There's no need to search...">
             </div>
             <div class="user-info">
-                <div class="user-avatar">I</div>
-                <span>Igor</span>
+                <div class="user-avatar">HR</div>
+                <span>HR Agent</span>
             </div>
         </div>
     </div>
