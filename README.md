@@ -509,9 +509,8 @@
                 <input type="text" class="search-box" placeholder="There's no need to search...">
             </div>
             <div class="user-info">
-                <div class="user-avatar">CR
-                </div>
-                <span>Cool Recruiter</span>
+                <div class="user-avatar">CR</div>
+                <span>Recruiter</span>
             </div>
         </div>
     </div>
@@ -533,12 +532,9 @@
             <div class="left-panel">
                 <div class="profile-section">
                    <div class="profile-avatar">I</div>
-            </div>
-
-                    
+                </div>     
                     <div class="profile-name">Igor</div>
                     <div class="profile-title">ServiceNow Developer</div>
-                </div>
 
                 <div class="section">
                     <div class="section-title">Personal Information</div>
