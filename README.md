@@ -510,9 +510,9 @@
             </div>
             <div class="user-info">
                 <div class="user-avatar">
-                    <img src="image/avatar.jpg" alt="Igor's profile photo">
+                    <img src="image/avatar.jpg" alt="HR's profile photo">
                 </div>
-                <span>Igor</span>
+                <span>Cool Recruiter</span>
             </div>
         </div>
     </div>
@@ -533,7 +533,13 @@
             <!-- Left Panel -->
             <div class="left-panel">
                 <div class="profile-section">
-                    <div class="profile-avatar">I</div>
+                   <!-- <div class="profile-avatar">I</div> -->
+                <div class="profile-avatar">
+                    <img src="image/avatar.jpg" alt="Igor's profile photo">
+                </div>
+            </div>
+
+                    
                     <div class="profile-name">Igor</div>
                     <div class="profile-title">ServiceNow Developer</div>
                 </div>
