@@ -4,9 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Igor Resume - ServiceNow Developer</title>
 
-        h1:contains("servicenowresume") {
-            display: none;
-        } 
+    
     <style>
         * {
             margin: 0;
@@ -557,7 +555,7 @@
                     </div>
                                         </div>
 
-                    <div class="profile-name">Igor</div>
+                    <div class="profile-name">Igor Khalfin</div>
                     <div class="profile-title">ServiceNow Developer</div>
 
                 <div class="section">
