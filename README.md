@@ -9,7 +9,9 @@
             padding: 0;
             box-sizing: border-box;
         }
-
+            h1:contains("servicenowresume") {
+            display: none;
+        }    
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f5f5f5;
