@@ -551,6 +551,8 @@
                     <div class="profile-avatar">
                         <img src="image/avatar.JPG" alt="Igor's profile photo">
                     </div>
+                                        </div>
+
                     <div class="profile-name">Igor</div>
                     <div class="profile-title">ServiceNow Developer</div>
 
