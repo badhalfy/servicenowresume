@@ -549,7 +549,7 @@
             <div class="left-panel">
                 <div class="profile-section">
                     <div class="profile-avatar">
-                        <img src="image/avatar.jpg" alt="Igor's profile photo">
+                        <img src="image/avatar.JPG" alt="Igor's profile photo">
                     </div>
                     <div class="profile-name">Igor</div>
                     <div class="profile-title">ServiceNow Developer</div>
