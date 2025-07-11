@@ -102,6 +102,10 @@
             font-weight: bold;
         }
 
+
+
+        
+
         /* Main Container */
         .main-container {
             margin-top: 36px;
@@ -160,7 +164,20 @@
             font-size: 36px;
             font-weight: bold;
             margin: 0 auto 12px;
+            overflow: hidden;
         }
+
+        .profile-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Maintains aspect ratio while filling container */
+             border-radius: inherit; /* Inherits any border-radius from parent */
+        }
+
+
+
+
+        
 
         .profile-name {
             font-size: 20px;
