@@ -502,14 +502,16 @@
             <li onclick="showTab('skills')">Skills</li>
             <li onclick="showTab('education')">Education</li>
             <li onclick="showTab('contact')">Contact</li>
-            <li onclick="showTab('projects')">Personal</li>
+            <li onclick="showTab('personal')">Personal</li>
         </ul>
         <div class="header-right">
             <div class="search-container">
                 <input type="text" class="search-box" placeholder="There's no need to search...">
             </div>
             <div class="user-info">
-                <div class="user-avatar" src='image/avatar.jpg'>I</div>
+                <div class="user-avatar">
+                    <img src="image/avatar.jpg" alt="Igor's profile photo">
+                </div>
                 <span>Igor</span>
             </div>
         </div>
