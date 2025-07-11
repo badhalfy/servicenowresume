@@ -872,7 +872,7 @@
 
 
   <!-- Personal Tab -->
-                <div id="projects" class="tab-content">
+                <div id="personal" class="tab-content">
                     <div class="form-section">
                         <div class="form-section-header">Personal Projects & Hobbies</div>
                         <div class="form-section-content">
