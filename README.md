@@ -627,7 +627,7 @@
                     <div class="tab" onclick="showTab('skills')">Skills</div>
                     <div class="tab" onclick="showTab('education')">Education</div>
                     <div class="tab" onclick="showTab('contact')">Contact</div>
-                    <div class="tab" onclick="showTab('projects')">Personal</div>
+                    <div class="tab" onclick="showTab('personal')">Personal</div>
                 </div>
 
                 <!-- Overview Tab -->
