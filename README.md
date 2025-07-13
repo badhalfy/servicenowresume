@@ -632,14 +632,7 @@
 
                 <!-- Overview Tab -->
                 <div id="overview" class="tab-content active">
-                    <div class="form-section">
-                        <div class="form-section-header">About this Resume</div>
-                        <div class="form-section-content">
-                            <div class="form-group">
-                                <textarea class="form-textarea" readonly>This resume web-site I developed with ServiceNow platform in mind. I've used some design elements from the platform to make it recognizable, however I have simplified the concept since format requires much less functionality. </textarea>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="form-section">
                         <div class="form-section-header">Professional Summary</div>
                         <div class="form-section-content">
@@ -961,12 +954,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-                    
-
-            
-                    
+                                        
                 </div>
             </div>
         </div>
