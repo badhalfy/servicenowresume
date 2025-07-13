@@ -870,9 +870,45 @@
                         </div>
                     </div>
 
+                     <div class="form-section">
+                        <div class="form-section-header">Send a Message</div>
+                        <div class="form-section-content">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="form-label">Your Name</label>
+                                    <input type="text" class="form-input" placeholder="Enter your name">
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label">Your Email</label>
+                                    <input type="email" class="form-input" placeholder="Enter your email">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="form-label">Subject</label>
+                                    <input type="text" class="form-input" placeholder="Enter subject">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="form-label">Message</label>
+                                    <textarea class="form-textarea" placeholder="Enter your message here..."></textarea>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <button class="btn btn-primary">Send Message</button>
+                                    <button class="btn" style="margin-left: 12px;">Clear Form</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                </div> <!-- Tab closure -->
 
   <!-- Personal Tab -->
-                <div id="personal" class="tab-content">
+           <div id="personal" class="tab-content">
                 <div class="form-section">
                         <div class="form-section-header">About this Resume</div>
                         <div class="form-section-content">
@@ -889,6 +925,7 @@
                                 <div class="project-description">
                                     Passively running small car rental agency
                                 </div>
+                                
                                 <div class="project-technologies">
                                     <span class="tech-tag">Business Managemement</span>
                                     <span class="tech-tag">Financial Managemement</span>
@@ -961,6 +998,7 @@
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
